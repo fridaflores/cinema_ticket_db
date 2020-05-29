@@ -1,0 +1,4 @@
+user:ff
+password:F146015
+host:localhost
+database:cinema_ticket_db
